@@ -1,7 +1,7 @@
 ## Endpoint `/all-student`
 
 ### Command Line Results
-![image](https://github.com/user-attachments/assets/b6aef7eb-6c02-41a8-83f4-ff43c4baa6eb)
+![image](https://github.com/user-attachments/assets/62ac597f-ade7-4c75-b0f7-1ac7ae53acc6)
 
 ### Before Optimization
 ![image](https://github.com/user-attachments/assets/6c8135ed-8717-4bb9-8047-ad81ec288fbe)
