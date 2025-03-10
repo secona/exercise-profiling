@@ -1,10 +1,10 @@
 ## Endpoint `/all-student`
 
 ### Command Line Results
-![image](https://github.com/user-attachments/assets/62ac597f-ade7-4c75-b0f7-1ac7ae53acc6)
+![image](https://github.com/user-attachments/assets/636f1b3c-a597-4cd1-82e6-2f9052a743ab)
 
 ### Before Optimization
-![image](https://github.com/user-attachments/assets/6c8135ed-8717-4bb9-8047-ad81ec288fbe)
+![image](https://github.com/user-attachments/assets/34ab9d92-4782-40df-8c79-c24982f6db6e)
 
 ### After Optimization
 TODO
@@ -12,10 +12,10 @@ TODO
 ## Endpoint `/all-student-name`
 
 ### Command Line Results
-![image](https://github.com/user-attachments/assets/9afbacc9-ae7f-4ea1-8afe-baa8793b29f8)
+![image](https://github.com/user-attachments/assets/77f76362-9d4f-4f7d-aaff-af3587a8293b)
 
 ### Before Optimization
-![image](https://github.com/user-attachments/assets/bc72f7da-3929-4d8c-b711-6d1d5a99008e)
+![image](https://github.com/user-attachments/assets/a75cc1d8-1061-4df8-b989-2ba7aefd25cb)
 
 ### After Optimization
 TODO
@@ -23,10 +23,10 @@ TODO
 ## Endpoint `/highest-gpa`
 
 ### Command Line Results
-![image](https://github.com/user-attachments/assets/08dfc7e0-f25d-4855-83d0-97655a5ec7a2)
+![image](https://github.com/user-attachments/assets/5b343e7a-c114-4ba5-8f2f-a153528098d6)
 
 ### Before Optimization
-![image](https://github.com/user-attachments/assets/fd9be8ba-7be1-4711-b90c-8e60d2a1eec1)
+![image](https://github.com/user-attachments/assets/1bf240b2-9641-49a1-936f-2a860813846a)
 
 ### After Optimization
 TODO
