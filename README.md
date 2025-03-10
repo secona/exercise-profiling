@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/34ab9d92-4782-40df-8c79-c24982f6db6e)
 
 ### After Optimization
-TODO
+![image](https://github.com/user-attachments/assets/12a87242-e965-4f97-bf09-bd6f8511f1f8)
 
 ## Endpoint `/all-student-name`
 
@@ -18,7 +18,7 @@ TODO
 ![image](https://github.com/user-attachments/assets/a75cc1d8-1061-4df8-b989-2ba7aefd25cb)
 
 ### After Optimization
-TODO
+![image](https://github.com/user-attachments/assets/be15a0f7-2c31-4800-ac0f-f901bde3368c)
 
 ## Endpoint `/highest-gpa`
 
@@ -29,4 +29,4 @@ TODO
 ![image](https://github.com/user-attachments/assets/1bf240b2-9641-49a1-936f-2a860813846a)
 
 ### After Optimization
-TODO
+![image](https://github.com/user-attachments/assets/d01afeef-7466-4ffc-8781-598842783fdc)
